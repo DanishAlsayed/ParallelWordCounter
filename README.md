@@ -1,5 +1,5 @@
 # ParallelWordCounter
-Four C programs – One Sequentioal, two  multiprocessing programs and one multithreaded program – to count the frequencies of the selected keywords in a document
+Four C programs – One Sequential, two  multiprocessing programs and one multithreaded program – to count the frequencies of the selected keywords in a document
 
 This was one of my university projects (for Operating Systems). It demonstrated doing the same tast i.e. counting the frequency of words in a given document using simple sequential, multiprocessing and multithreading techniques.
 
